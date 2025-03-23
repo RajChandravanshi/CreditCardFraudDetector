@@ -70,14 +70,3 @@ CSV file link - https://www.kaggle.com/mlg-ulb/creditcardfraud
     <li>Gradient Boosting struggles with class separation despite good accuracy.</li>
     <li>Decision Tree and Extra Tree lag behind in precision, making them less ideal.</li>
 </ul>
-
-<h2>⚙️ Installation</h2>
-<pre><code># Clone the repository
-git clone https://github.com/username/repository.git
-
-# Navigate to the project directory
-cd repository
-
-# Install dependencies
-pip install -r requirements.txt
-</code></pre>
