@@ -81,30 +81,3 @@ cd repository
 # Install dependencies
 pip install -r requirements.txt
 </code></pre>
-
-<h2>🚀 Usage</h2>
-<p>Run the main script to train and evaluate models:</p>
-<pre><code>python main.py</code></pre>
-
-<h2>🛠 Technologies Used</h2>
-<ul>
-    <li>Python</li>
-    <li>NumPy, Pandas, Matplotlib, Seaborn, Plotly</li>
-    <li>Scikit-Learn (Machine Learning Models)</li>
-</ul>
-
-<h2>📜 License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-<h2>🤝 Contributing</h2>
-<p>Contributions are welcome! Follow these steps:</p>
-<ol>
-    <li>Fork the repository</li>
-    <li>Create a new branch (<code>git checkout -b feature-branch</code>)</li>
-    <li>Commit your changes (<code>git commit -m "Add new feature"</code>)</li>
-    <li>Push to the branch (<code>git push origin feature-branch</code>)</li>
-    <li>Open a pull request</li>
-</ol>
-
-<h2>📞 Contact</h2>
-<p>For questions, email <a href="mailto:your.email@example.com">your.email@example.com</a></p>
